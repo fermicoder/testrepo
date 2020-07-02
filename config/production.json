@@ -1,0 +1,7 @@
+{
+    "name": "prod-name",
+    "mail" : {
+        "hostname" : "prod-mail-name"
+    }
+
+}
